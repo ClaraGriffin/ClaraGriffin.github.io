@@ -40,7 +40,7 @@ q.innerHTML =
 q.innerHTML += "<br><br><br>";
 
 
-var is = ["is", "is not", "is like", "includes", "excludes", "is beyond",
+var is = ["more than", "farther back than", "looking towards", "staring at", "collides against", "trancends",
 	  "extends", "encodes", "represents", "signifies", "consists of"];
 
 for (var i = 0; i < is.length; i = i + 1){
